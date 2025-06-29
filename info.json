@@ -1,10 +1,11 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
+  "name": "[factorio-test-mod]",
+  "version": "0.0.1",
+  "title": "[Test Mod]",
+  "author": "[YOUR MODS.FACTORIO.COM Profiler50002]",
   "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "description": "[Dies ist nur eine Testmod für Factorio um zu sehen ob die Mod Struktur meinerseits richtig erstellt worden sind und alle lizenzrechte ohne ärger eingehalten worden ist
+  ]",
   "factorio_version": "2.0",
   "dependencies": [
     "base"
